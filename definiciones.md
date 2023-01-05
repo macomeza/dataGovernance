@@ -25,7 +25,9 @@ El ejercicio de la autoridad, control y toma de decisiones compartida (planifica
 
 Los principales beneficios de un gobierno de datos son los siguientes:
 •	Minimizar en lo posible la aparición de silos de información.
+
 •	Reducir los costes asociados a los mismos (ya que requieren más licencias, más hardware, más mano de obra (análisis de la duplicación, el modelado, la gestión).
+
 •	Disminuir los esfuerzos de integración de la información que serían precisos sin un gobierno adecuado de los sistemas de datos.
 
 
