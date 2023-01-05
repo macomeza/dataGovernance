@@ -6,7 +6,7 @@ La *gestión de información empresarial* es un programa, que una vez inicia nec
 
 La *gestión de datos* es una parte esencial de la gestión de la información, comprende todas las disciplinas relacionadas con la administración del dato y los sistemas de datos. Para ello, se ocupa de su ciclo de vida completo. De esta forma asegura que los datos de la organización están disponibles, se encuentran protegidos y reúnen las condiciones de calidad necesarias.
 
-![Gestión de datos](https://github.com/macomeza/dataGovernance/blob/main/gestionDeDatos.png)
+![Gestión de datos](https://github.com/macomeza/dataGovernance/blob/main/gestionDeDatosv2.png)
 
 El gobierno de datos, es el componente principal de la gestión de datos y se encarga de cohesionar lo siguiente:
 1.	Gestión de la arquitectura de la información.
