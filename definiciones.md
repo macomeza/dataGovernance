@@ -31,16 +31,7 @@ Los principales beneficios de un gobierno de datos son los siguientes:
 
 •	Disminuir los esfuerzos de integración de la información que serían precisos sin un gobierno adecuado de los sistemas de datos.
 
-
-
-
-
-
-
-
-
-
-
+![v del gobierno de datos](https://github.com/macomeza/dataGovernance/blob/main/vDeGobiernoDatos.png)
 
 La v del gobierno de datos
 
