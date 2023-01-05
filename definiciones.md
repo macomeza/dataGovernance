@@ -24,6 +24,7 @@ Un gobierno de datos es la organización e implementación de políticas, proced
 El ejercicio de la autoridad, control y toma de decisiones compartida (planificación, el seguimiento y la aplicación) a través de la gestión de activos de datos.
 
 Los principales beneficios de un gobierno de datos son los siguientes:
+
 •	Minimizar en lo posible la aparición de silos de información.
 
 •	Reducir los costes asociados a los mismos (ya que requieren más licencias, más hardware, más mano de obra (análisis de la duplicación, el modelado, la gestión).
