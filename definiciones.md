@@ -4,7 +4,7 @@ La gestión de datos es un proceso formal para gestionar datos es diciplinado, p
 
 La *gestión de información empresarial* es un programa, que una vez inicia necesita continuar operando, como una estructura permanente. Gestiona los activos de información que soportan al negocio y mejoran el valor de este. Gestiona planes, políticas, principios, marcos de trabajo, tecnologías, organizaciones, personas y procesos en la organización para alcanzar la meta de maximizar la inversión en datos y contenido. Abarca tanto la información electrónica como la física.
 
-La *gestión de datos* es una parte esencial de la gestión de la información, comprende todas las disciplinas relacionadas con la administración del dato y los sistemas de datos. Para ello, se ocupa de su ciclo de vida al completo. De esta forma asegura que los datos de la organización están disponibles, se encuentran protegidos y reúnen las condiciones de calidad necesarias.
+La *gestión de datos* es una parte esencial de la gestión de la información, comprende todas las disciplinas relacionadas con la administración del dato y los sistemas de datos. Para ello, se ocupa de su ciclo de vida completo. De esta forma asegura que los datos de la organización están disponibles, se encuentran protegidos y reúnen las condiciones de calidad necesarias.
 
 El gobierno de datos, es el componente principal de la gestión de datos y se encarga de cohesionar lo siguiente:
 1.	Gestión de la arquitectura de la información.
